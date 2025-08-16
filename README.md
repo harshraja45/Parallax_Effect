@@ -35,5 +35,10 @@ The illusion of depth is achieved using CSS perspective.
 Section backgrounds use background-attachment: fixed for the parallax effect.
 
 6.📸 Preview
+scrrenshot-1
 
-![Parallax Preview]()
+![Parallax Preview](images/lo.png)
+
+scrrenshot-2
+![Parallax Preview](images/lo1.png)
+
