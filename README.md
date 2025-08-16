@@ -4,6 +4,8 @@ giving a modern and engaging user experience.
 
 2.🚀 Features
 
+
+
 Pure HTML & CSS (no JavaScript required)
 
 Smooth parallax scrolling effect
@@ -14,6 +16,9 @@ Fixed background images with text overlay
 
 Simple and lightweight design
 
+
+
+
 3.📂 Project Structure
 
 Parallax-Effect/
@@ -21,10 +26,15 @@ Parallax-Effect/
 │── style.css         # CSS styling
 │── images/           # Background images
 
+
+
+
 4.🛠️ Technologies Used
 
 HTML5
 CSS3 (flexbox, transforms, object-fit, z-index, perspective)
+
+
 
 5.🎯 How It Works
 
@@ -33,6 +43,9 @@ Background and foreground images are layered using position: absolute and transf
 The illusion of depth is achieved using CSS perspective.
 
 Section backgrounds use background-attachment: fixed for the parallax effect.
+
+
+
 
 6.📸 Preview
 scrrenshot-1
